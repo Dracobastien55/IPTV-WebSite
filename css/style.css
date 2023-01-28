@@ -25,8 +25,8 @@ body{
 }
 
 .dividerVertical{
-    border-left: solid 1px blue;
-    margin-left: 10px;
+    border-left: solid 1px blue;!important;
+    margin-left: 10px;!important;
 }
 
 .flex{
@@ -70,11 +70,11 @@ body{
 }
 
 ul{
-    list-style: none;
+    list-style: none;!important;
 }
 
 li{
-    margin-bottom: 5px;
+    margin-bottom: 5px;!important;
 }
 
 .item-presentation{
