@@ -21,7 +21,7 @@ body{
 }
 
 .divider{
-    border-top: solid 1px blue;
+    border-top: solid 1px blue;!important;
 }
 
 .dividerVertical{
@@ -66,7 +66,7 @@ body{
 
 #Contact{
     width: 50vw;
-    height: 50vh;
+    height: 80vh;
 }
 
 ul{
